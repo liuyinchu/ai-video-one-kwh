@@ -14,41 +14,6 @@
 
 30 秒试音为 `output/voice-preview-xiaoxiao.mp3`，实际时长 29.976 秒。
 
-## 远端环境
-
-全部制作文件位于远端 Mac：
-
-```sh
-ssh yangshuyun@10.10.10.1
-cd ~/workspace/dev/ai-video/ai-video-1024-astra
-```
-
-使用已有的 macOS 14.4、Apple Swift 5.9、AVFoundation、Core Graphics 和 URLSession。无需安装 Python、Node.js、FFmpeg 或任何包；不读取个人凭证或 API 密钥。
-
-## 重新制作
-
-从远端仓库根目录运行：
-
-```sh
-# 生成12场预览、48张分镜和3页分镜总览；不请求配音服务
-./scripts/render.sh --preview
-
-# 整场合成晓晓旁白，生成精确时间轴和字幕
-./scripts/render.sh --audio-only
-
-# 完整渲染，验证媒体，并同步播放页及下载文件
-./scripts/render.sh --render
-```
-
-也可先运行 `./scripts/build.sh`，再调用 `./build/render --preview`、`--audio-only` 或 `--render`。所有新输出写入 `output/`；`output/one-kwh-v1.mp4` 保留第一版以供对比，不被制作脚本覆盖。
-
-重新生成试音：
-
-```sh
-/usr/bin/swiftc -O Sources/NeuralVoice.swift Sources/EdgeToken.swift scripts/probe-neural.swift -o build/probe-neural
-./build/probe-neural
-```
-
 ## 文件
 
 - `content/story.json`：12 场、48 句旁白及场景信息。
@@ -65,22 +30,6 @@ cd ~/workspace/dev/ai-video/ai-video-1024-astra
 - `build/neural-audio/`：第二版神经配音缓存；旧 `build/audio/` 保留第一版系统音频。
 
 `build/` 和 `output/` 是可重新生成的制作产物，不纳入 Git。第三方协议与算法移植来源、适用许可证及完整文本见 [THIRD_PARTY.md](THIRD_PARTY.md)。
-
-## 播放页
-
-在远端项目根目录启动只监听本机的服务：
-
-```sh
-VIDEO_PORT=18325 /usr/bin/ruby scripts/serve.rb
-```
-
-在本地另一个终端建立 SSH 隧道：
-
-```sh
-ssh -N -L127.0.0.1:18325:127.0.0.1:18325 yangshuyun@10.10.10.1
-```
-
-访问 <http://127.0.0.1:18325/>。视频、服务和文件仍在远端，SSH 隧道仅用于本地访问。
 
 ## 验证
 
