@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "counts": {
+    "directory": 29,
+    "file": 350,
+    "symlink": 2
+  },
+  "file_bytes": 292172503,
+  "errors": [
+
+  ],
+  "verified_payload_commit": "7872bae584d480609ce11958fd9d717554e1828d",
+  "verified_date": "2026-10-24",
+  "verification_method": "Fresh SSH clone from GitHub; original Git metadata extracted from the GitHub copy; every original file SHA256, byte count, mode, directory and symlink checked; git fsck --full passed.",
+  "directory_permissions_restored_from_manifest": true,
+  "original_manifest_sha256": "67a086cbcb697d91fc6d0f310d71c26b899debb78bac85b96da8216833d0e04d"
+}

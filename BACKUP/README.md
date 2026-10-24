@@ -15,9 +15,10 @@
 ```sh
 git clone git@github.com:liuyinchu/ai-video-one-kwh.git
 cd ai-video-one-kwh
+LC_ALL=en_US.UTF-8 ruby BACKUP/restore_permissions.rb
 ```
 
-克隆会直接恢复所有工程内容和两个相对符号链接。制作方法见根目录 README。无需再下载视频、旁白或缓存。
+克隆会直接恢复所有工程内容和两个相对符号链接。Git 不保留空目录或完整的 POSIX 权限；上面的恢复脚本从清单补齐这些元数据，不修改文件内容。本工程有 4 个 Swift 编译缓存目录的权限需要这一步恢复。制作方法见根目录 README。无需再下载视频、旁白或缓存。
 
 若需要检查首次备份前的 Git 元数据，可将 `BACKUP/original-git-metadata.tar.gz` 解压到单独的空目录。不要覆盖克隆后正在使用的 `.git/`。
 
