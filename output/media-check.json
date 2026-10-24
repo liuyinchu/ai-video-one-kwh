@@ -1,0 +1,70 @@
+{
+  "audioCodecs" : [
+    "aac "
+  ],
+  "audioCoverage" : "All narration is present; the intentional final 1.2-second pause contains no audio packets.",
+  "audioEnd" : 275.61666666666667,
+  "audioStart" : 0,
+  "audioTrackCount" : 1,
+  "bytes" : 33437768,
+  "decodedAudioSamples" : 6614800,
+  "duration" : 276.83333333333331,
+  "expectedAudioEnd" : 275.61799999999999,
+  "expectedAudioStart" : 0.55000000000000004,
+  "file" : "output/一度电如何来到插座.mp4",
+  "fps" : 24,
+  "frames" : [
+    {
+      "actual" : 10,
+      "label" : "opening-10s",
+      "path" : "output/qa/frame-opening-10s.png",
+      "requested" : 10
+    },
+    {
+      "actual" : 123.25,
+      "label" : "losses-beat2",
+      "path" : "output/qa/frame-losses-beat2.png",
+      "requested" : 123.28994745
+    },
+    {
+      "actual" : 140.79166666666666,
+      "label" : "transformer-beat1",
+      "path" : "output/qa/frame-transformer-beat1.png",
+      "requested" : 140.80505270000003
+    },
+    {
+      "actual" : 198.5,
+      "label" : "rms-beat3",
+      "path" : "output/qa/frame-rms-beat3.png",
+      "requested" : 198.51057910000003
+    },
+    {
+      "actual" : 272.58333333333331,
+      "label" : "final-answer",
+      "path" : "output/qa/frame-final-answer.png",
+      "requested" : 272.59336865
+    },
+    {
+      "actual" : 276.58333333333331,
+      "label" : "final-frame",
+      "path" : "output/qa/frame-final-frame.png",
+      "requested" : 276.58333333333331
+    }
+  ],
+  "height" : 1080,
+  "nonSilentSamples" : 5962557,
+  "passed" : true,
+  "peakAmplitude" : 0.81754022836685181,
+  "peakDBFS" : -1.7498173598271769,
+  "rmsAmplitude" : 0.095702690266178253,
+  "rmsDBFS" : -20.381517074905318,
+  "samplesAtOrAbove0.999" : 0,
+  "videoCodecs" : [
+    "avc1"
+  ],
+  "videoEnd" : 276.83333333333331,
+  "videoTrackCount" : 1,
+  "voiceID" : "zh-CN-XiaoxiaoNeural",
+  "voiceProvider" : "Microsoft Edge Read Aloud",
+  "width" : 1920
+}

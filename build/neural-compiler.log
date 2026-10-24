@@ -1,0 +1,36 @@
+Sources/Pipeline.swift:146:43: warning: 'duration' was deprecated in macOS 13.0: Use load(.duration) instead
+    let duration = CMTimeGetSeconds(asset.duration)
+                                          ^
+Sources/Pipeline.swift:147:51: warning: 'tracks(withMediaType:)' was deprecated in macOS 13.0: Use loadTracks(withMediaType:) instead
+    guard duration.isFinite, duration > 0, !asset.tracks(withMediaType: .audio).isEmpty else {
+                                                  ^
+Sources/Pipeline.swift:378:40: warning: 'tracks(withMediaType:)' was deprecated in macOS 13.0: Use loadTracks(withMediaType:) instead
+    guard let sourceVideo = videoAsset.tracks(withMediaType: .video).first else { throw fail("无声视频没有视频轨道。") }
+Sources/Pipeline.swift:383:34: warning: 'tracks(withMediaType:)' was deprecated in macOS 13.0: Use loadTracks(withMediaType:) instead
+        guard let source = asset.tracks(withMediaType: .audio).first else { throw fail("音频片段没有声音轨道：\(clip.audioPath)") }
+Sources/Pipeline.swift:384:82: warning: 'duration' was deprecated in macOS 13.0: Use load(.duration) instead
+        try audioTrack.insertTimeRange(CMTimeRange(start: .zero, duration: asset.duration), of: source,
+                                                                                 ^
+Sources/Pipeline.swift:425:29: warning: 'tracks(withMediaType:)' was deprecated in macOS 13.0: Use loadTracks(withMediaType:) instead
+    guard let video = asset.tracks(withMediaType: .video).first,
+                            ^
+Sources/Pipeline.swift:426:29: warning: 'tracks(withMediaType:)' was deprecated in macOS 13.0: Use loadTracks(withMediaType:) instead
+          let audio = asset.tracks(withMediaType: .audio).first else { throw fail("成片缺少视频或音频轨道。") }
+Sources/Pipeline.swift:427:43: warning: 'duration' was deprecated in macOS 13.0: Use load(.duration) instead
+    let duration = CMTimeGetSeconds(asset.duration)
+                                          ^
+Sources/Pipeline.swift:429:29: warning: 'formatDescriptions' was deprecated in macOS 13.0: Use load(.formatDescriptions) instead
+    let videoCodecs = video.formatDescriptions.map { fourCC(CMFormatDescriptionGetMediaSubType($0 as! CMFormatDescription)) }
+                            ^
+Sources/Pipeline.swift:430:29: warning: 'formatDescriptions' was deprecated in macOS 13.0: Use load(.formatDescriptions) instead
+    let audioCodecs = audio.formatDescriptions.map { fourCC(CMFormatDescriptionGetMediaSubType($0 as! CMFormatDescription)) }
+                            ^
+Sources/Pipeline.swift:435:22: warning: 'naturalSize' was deprecated in macOS 13.0: Use load(.naturalSize) instead
+               video.naturalSize.width, video.naturalSize.height, video.nominalFrameRate, Double(size) / 1_000_000,
+                     ^
+Sources/Pipeline.swift:435:47: warning: 'naturalSize' was deprecated in macOS 13.0: Use load(.naturalSize) instead
+               video.naturalSize.width, video.naturalSize.height, video.nominalFrameRate, Double(size) / 1_000_000,
+                                              ^
+Sources/Pipeline.swift:435:73: warning: 'nominalFrameRate' was deprecated in macOS 13.0: Use load(.nominalFrameRate) instead
+               video.naturalSize.width, video.naturalSize.height, video.nominalFrameRate, Double(size) / 1_000_000,
+                                                                        ^

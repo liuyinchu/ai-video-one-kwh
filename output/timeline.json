@@ -1,0 +1,545 @@
+{
+  "audioSegments" : [
+    {
+      "audioPath" : "build/neural-audio/scene-01-7433e202f9459480.mp3",
+      "end" : 20.898,
+      "scene" : 0,
+      "start" : 0.45
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-02-f1aea6d80858c484.mp3",
+      "end" : 41.385999999999996,
+      "scene" : 1,
+      "start" : 21.298
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-03-c36d21cafca5c2b8.mp3",
+      "end" : 65.666,
+      "scene" : 2,
+      "start" : 41.785999999999994
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-04-2540cf6eb5f1e0d8.mp3",
+      "end" : 86.37,
+      "scene" : 3,
+      "start" : 66.066
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-05-1c83890874265593.mp3",
+      "end" : 109.186,
+      "scene" : 4,
+      "start" : 86.77000000000001
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-06-9435b943b9b05ad8.mp3",
+      "end" : 131.234,
+      "scene" : 5,
+      "start" : 109.58600000000001
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-07-c6ff2be53dc07925.mp3",
+      "end" : 155.226,
+      "scene" : 6,
+      "start" : 131.63400000000001
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-08-de850a9e1a917968.mp3",
+      "end" : 178.354,
+      "scene" : 7,
+      "start" : 155.626
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-09-44715fa629dac6aa.mp3",
+      "end" : 201.722,
+      "scene" : 8,
+      "start" : 178.75400000000002
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-10-43094306fbfe779d.mp3",
+      "end" : 226.818,
+      "scene" : 9,
+      "start" : 202.122
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-11-c0c1e20105930085.mp3",
+      "end" : 251.746,
+      "scene" : 10,
+      "start" : 227.21800000000002
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-12-8fdf6b19820bc584.mp3",
+      "end" : 275.618,
+      "scene" : 11,
+      "start" : 252.14600000000002
+    }
+  ],
+  "clips" : [
+    {
+      "audioPath" : "build/neural-audio/scene-01-7433e202f9459480.mp3",
+      "end" : 5.7921053,
+      "scene" : 0,
+      "sentence" : 0,
+      "start" : 0.55,
+      "text" : "烧一壶水，只需按下开关，电热水壶就开始工作。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-01-7433e202f9459480.mp3",
+      "end" : 10.357894799999999,
+      "scene" : 0,
+      "sentence" : 1,
+      "start" : 5.7921053,
+      "text" : "但让水变热的能量，真的是从插座里冒出来的吗？"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-01-7433e202f9459480.mp3",
+      "end" : 16.081578999999998,
+      "scene" : 0,
+      "sentence" : 2,
+      "start" : 10.357894799999999,
+      "text" : "我们把镜头沿着电线拉远，会看到一张跨越山川的大网。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-01-7433e202f9459480.mp3",
+      "end" : 20.8315791,
+      "scene" : 0,
+      "sentence" : 3,
+      "start" : 16.0815791,
+      "text" : "今天就追着这股能量，看一度电怎样来到你家。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-02-f1aea6d80858c484.mp3",
+      "end" : 26.5085263,
+      "scene" : 1,
+      "sentence" : 0,
+      "start" : 21.398,
+      "text" : "先算一笔账：一度电，正式的名字叫一千瓦时。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-02-f1aea6d80858c484.mp3",
+      "end" : 31.311157899999998,
+      "scene" : 1,
+      "sentence" : 1,
+      "start" : 26.5085263,
+      "text" : "电器保持一千瓦的功率，用一小时，就是一度电。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-02-f1aea6d80858c484.mp3",
+      "end" : 36.298000099999996,
+      "scene" : 1,
+      "sentence" : 2,
+      "start" : 31.311158,
+      "text" : "换成十瓦的小灯，功率不变，就能亮足一百小时。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-02-f1aea6d80858c484.mp3",
+      "end" : 41.3243159,
+      "scene" : 1,
+      "sentence" : 3,
+      "start" : 36.298000099999996,
+      "text" : "功率说的是用得多快，度数说的是一共用了多少。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-03-c36d21cafca5c2b8.mp3",
+      "end" : 47.917578999999996,
+      "scene" : 2,
+      "sentence" : 0,
+      "start" : 41.885999999999996,
+      "text" : "先看起点：发电并不是造出能量，而是给能量换一种形式。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-03-c36d21cafca5c2b8.mp3",
+      "end" : 54.0754738,
+      "scene" : 2,
+      "sentence" : 1,
+      "start" : 47.917578999999996,
+      "text" : "火电和核电先用热推动机器，水流和风也能带动发电机。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-03-c36d21cafca5c2b8.mp3",
+      "end" : 59.812315899999994,
+      "scene" : 2,
+      "sentence" : 2,
+      "start" : 54.0754738,
+      "text" : "光伏走的是另一条路：不用转动，直接把阳光变成直流电。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-03-c36d21cafca5c2b8.mp3",
+      "end" : 65.6017897,
+      "scene" : 2,
+      "sentence" : 3,
+      "start" : 59.812315999999996,
+      "text" : "再由逆变器把直流变成交流，才能接入常见的交流电网。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-04-2540cf6eb5f1e0d8.mp3",
+      "end" : 70.2765263,
+      "scene" : 3,
+      "sentence" : 0,
+      "start" : 66.166,
+      "text" : "那我家烧水，用的到底是哪一座电厂的电呢？"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-04-2540cf6eb5f1e0d8.mp3",
+      "end" : 76.1449474,
+      "scene" : 3,
+      "sentence" : 1,
+      "start" : 70.2765263,
+      "text" : "其实，许多电源都连进同一张网，一起为许多用户供电。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-04-2540cf6eb5f1e0d8.mp3",
+      "end" : 80.8817895,
+      "scene" : 3,
+      "sentence" : 2,
+      "start" : 76.1449474,
+      "text" : "它像道路网，但电力怎么分流，得听电路规律的。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-04-2540cf6eb5f1e0d8.mp3",
+      "end" : 86.3028422,
+      "scene" : 3,
+      "sentence" : 3,
+      "start" : 80.8817896,
+      "text" : "所以，不能给某一度电贴个地址，说它只沿着这条路走。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-05-1c83890874265593.mp3",
+      "end" : 92.65157900000001,
+      "scene" : 4,
+      "sentence" : 0,
+      "start" : 86.87,
+      "text" : "能量要走很远，可电线有电阻，一路发热就会损失能量。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-05-1c83890874265593.mp3",
+      "end" : 98.0594738,
+      "scene" : 4,
+      "sentence" : 1,
+      "start" : 92.65157900000001,
+      "text" : "怎样少浪费一点？一个办法，是让输电电流小一些。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-05-1c83890874265593.mp3",
+      "end" : 104.0594738,
+      "scene" : 4,
+      "sentence" : 2,
+      "start" : 98.0594738,
+      "text" : "看这个简化关系：功率等于电压乘电流，乘积要保持不变。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-05-1c83890874265593.mp3",
+      "end" : 109.11210550000001,
+      "scene" : 4,
+      "sentence" : 3,
+      "start" : 104.05947390000001,
+      "text" : "要送同样多的功率，就升高电压，换来更小的电流。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-06-9435b943b9b05ad8.mp3",
+      "end" : 115.20442110000002,
+      "scene" : 5,
+      "sentence" : 0,
+      "start" : 109.686,
+      "text" : "小多少才有用？线路发热，跟电流的平方成正比。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-06-9435b943b9b05ad8.mp3",
+      "end" : 120.5465264,
+      "scene" : 5,
+      "sentence" : 1,
+      "start" : 115.20442110000002,
+      "text" : "同样的功率，电压提高十倍，电流就降到十分之一。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-06-9435b943b9b05ad8.mp3",
+      "end" : 126.03336850000001,
+      "scene" : 5,
+      "sentence" : 2,
+      "start" : 120.5465264,
+      "text" : "在线路电阻不变等条件下，发热损耗就只剩百分之一。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-06-9435b943b9b05ad8.mp3",
+      "end" : 131.1649476,
+      "scene" : 5,
+      "sentence" : 3,
+      "start" : 126.03336860000002,
+      "text" : "这就是远方那些高大铁塔，要架设高压线路的原因。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-07-c6ff2be53dc07925.mp3",
+      "end" : 138.25242110000002,
+      "scene" : 6,
+      "sentence" : 0,
+      "start" : 131.734,
+      "text" : "升压降压靠什么？变压器里，交流电产生不断变化的磁场。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-07-c6ff2be53dc07925.mp3",
+      "end" : 143.35768430000002,
+      "scene" : 6,
+      "sentence" : 1,
+      "start" : 138.25242110000002,
+      "text" : "这个磁场联系两组线圈，让另一端得到不同的电压。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-07-c6ff2be53dc07925.mp3",
+      "end" : 149.0945264,
+      "scene" : 6,
+      "sentence" : 2,
+      "start" : 143.35768430000002,
+      "text" : "快到城市，电压逐级降下来，比如先进入十千伏配电网。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-07-c6ff2be53dc07925.mp3",
+      "end" : 155.1734739,
+      "scene" : 6,
+      "sentence" : 3,
+      "start" : 149.09452650000003,
+      "text" : "再到小区附近降压，送到居民家的，就是常见的二百二十伏。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-08-de850a9e1a917968.mp3",
+      "end" : 160.9154737,
+      "scene" : 7,
+      "sentence" : 0,
+      "start" : 155.726,
+      "text" : "进了小区，还要经过电表，记下你一共用了多少电能。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-08-de850a9e1a917968.mp3",
+      "end" : 166.63915790000001,
+      "scene" : 7,
+      "sentence" : 1,
+      "start" : 160.9154737,
+      "text" : "配电箱把电分到照明、插座等不同回路，并提供保护。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-08-de850a9e1a917968.mp3",
+      "end" : 172.9549475,
+      "scene" : 7,
+      "sentence" : 2,
+      "start" : 166.639158,
+      "text" : "水壶接上电源、按下开关，工作电路连通，电能持续输入。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-08-de850a9e1a917968.mp3",
+      "end" : 178.2838949,
+      "scene" : 7,
+      "sentence" : 3,
+      "start" : 172.9549475,
+      "text" : "发热元件把电能变成热，水的温度就一点点升上去了。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-09-44715fa629dac6aa.mp3",
+      "end" : 184.2408421,
+      "scene" : 8,
+      "sentence" : 0,
+      "start" : 178.854,
+      "text" : "不过，插座上的二百二十伏，并不代表电压一直不变。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-09-44715fa629dac6aa.mp3",
+      "end" : 189.4513684,
+      "scene" : 8,
+      "sentence" : 1,
+      "start" : 184.2408421,
+      "text" : "它是交流电，电压来回变化，每秒完成五十个周期。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-09-44715fa629dac6aa.mp3",
+      "end" : 195.37242120000002,
+      "scene" : 8,
+      "sentence" : 2,
+      "start" : 189.45136850000003,
+      "text" : "二百二十伏说的是有效值：按加热效果，给交流电一个刻度。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-09-44715fa629dac6aa.mp3",
+      "end" : 201.648737,
+      "scene" : 8,
+      "sentence" : 3,
+      "start" : 195.37242120000002,
+      "text" : "在同一个电阻上，它的平均发热效果，相当于二百二十伏直流。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-10-43094306fbfe779d.mp3",
+      "end" : 208.3983157,
+      "scene" : 9,
+      "sentence" : 0,
+      "start" : 202.222,
+      "text" : "那到底是什么跑进水壶？难道电子像快递，从电厂送来？"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-10-43094306fbfe779d.mp3",
+      "end" : 214.21410530000003,
+      "scene" : 9,
+      "sentence" : 1,
+      "start" : 208.3983158,
+      "text" : "导线里早就有电子；在交流电场下，它们主要在局部往复。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-10-43094306fbfe779d.mp3",
+      "end" : 220.5956844,
+      "scene" : 9,
+      "sentence" : 2,
+      "start" : 214.21410540000002,
+      "text" : "能量由电磁场传递，场的变化沿电路传播，让各处迅速响应。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-10-43094306fbfe779d.mp3",
+      "end" : 226.7667371,
+      "scene" : 9,
+      "sentence" : 3,
+      "start" : 220.5956844,
+      "text" : "所以，水壶不需要等某颗远方的电子，跑完几百公里才工作。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-11-c0c1e20105930085.mp3",
+      "end" : 233.25747370000002,
+      "scene" : 10,
+      "sentence" : 0,
+      "start" : 227.318,
+      "text" : "现在到了晚饭时间，大家同时开电器，用电需求突然增加。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-11-c0c1e20105930085.mp3",
+      "end" : 239.1785264,
+      "scene" : 10,
+      "sentence" : 1,
+      "start" : 233.25747370000002,
+      "text" : "如果供给一时跟不上，电网频率就可能偏低，需要赶紧调节。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-11-c0c1e20105930085.mp3",
+      "end" : 245.33642120000002,
+      "scene" : 10,
+      "sentence" : 2,
+      "start" : 239.1785264,
+      "text" : "发电机增加出力，电池也能放电补上，但它存的能量有上限。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-11-c0c1e20105930085.mp3",
+      "end" : 251.67852650000003,
+      "scene" : 10,
+      "sentence" : 3,
+      "start" : 245.33642120000002,
+      "text" : "调度还要算上线路损耗，让供给和需求，在变化中重新平衡。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-12-8fdf6b19820bc584.mp3",
+      "end" : 257.75126320000004,
+      "scene" : 11,
+      "sentence" : 0,
+      "start" : 252.246,
+      "text" : "这时，你的水烧开了，这趟能量之旅也有了具体的模样。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-12-8fdf6b19820bc584.mp3",
+      "end" : 264.0933685,
+      "scene" : 11,
+      "sentence" : 1,
+      "start" : 257.75126320000004,
+      "text" : "它从风、流水、阳光和燃料出发，经过发电、输电与配电。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-12-8fdf6b19820bc584.mp3",
+      "end" : 269.6328422,
+      "scene" : 11,
+      "sentence" : 2,
+      "start" : 264.0933685,
+      "text" : "最后变成水里的热，而电表记录下这一过程用掉的电能。"
+    },
+    {
+      "audioPath" : "build/neural-audio/scene-12-8fdf6b19820bc584.mp3",
+      "end" : 275.553895,
+      "scene" : 11,
+      "sentence" : 3,
+      "start" : 269.6328423,
+      "text" : "原来，一壶热水的背后，是整个电力系统一直在协同工作。"
+    }
+  ],
+  "duration" : 276.8333333333333,
+  "fps" : 24,
+  "height" : 1080,
+  "provider" : "Microsoft Edge Read Aloud",
+  "scenes" : [
+    {
+      "end" : 21.298,
+      "scene" : 0,
+      "start" : 0,
+      "title" : "一壶水，为什么能烧开？"
+    },
+    {
+      "end" : 41.785999999999994,
+      "scene" : 1,
+      "start" : 21.298,
+      "title" : "先算一笔电费账"
+    },
+    {
+      "end" : 66.066,
+      "scene" : 2,
+      "start" : 41.785999999999994,
+      "title" : "起点：给能量换一种形式"
+    },
+    {
+      "end" : 86.77000000000001,
+      "scene" : 3,
+      "start" : 66.066,
+      "title" : "我家用的是哪座电厂的电？"
+    },
+    {
+      "end" : 109.58600000000001,
+      "scene" : 4,
+      "start" : 86.77000000000001,
+      "title" : "送得远，怎样少浪费？"
+    },
+    {
+      "end" : 131.63400000000001,
+      "scene" : 5,
+      "start" : 109.58600000000001,
+      "title" : "电流小一点，损耗少很多"
+    },
+    {
+      "end" : 155.626,
+      "scene" : 6,
+      "start" : 131.63400000000001,
+      "title" : "到家之前，电压还要降下来"
+    },
+    {
+      "end" : 178.75400000000002,
+      "scene" : 7,
+      "start" : 155.626,
+      "title" : "从电表，到水壶"
+    },
+    {
+      "end" : 202.122,
+      "scene" : 8,
+      "start" : 178.75400000000002,
+      "title" : "220 伏，其实一直在变化"
+    },
+    {
+      "end" : 227.21800000000002,
+      "scene" : 9,
+      "start" : 202.122,
+      "title" : "电子，是从远方送来的吗？"
+    },
+    {
+      "end" : 252.14600000000002,
+      "scene" : 10,
+      "start" : 227.21800000000002,
+      "title" : "如果大家同时烧水呢？"
+    },
+    {
+      "end" : 276.8333333333333,
+      "scene" : 11,
+      "start" : 252.14600000000002,
+      "title" : "水开了，答案也到了"
+    }
+  ],
+  "title" : "一度电如何来到插座",
+  "voice" : "Microsoft 晓晓（神经语音）",
+  "voiceID" : "zh-CN-XiaoxiaoNeural",
+  "voiceRate" : "-5%",
+  "width" : 1920
+}

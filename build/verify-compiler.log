@@ -1,0 +1,36 @@
+scripts/verify.swift:11:39: warning: 'duration' was deprecated in macOS 13.0: Use load(.duration) instead
+let duration = CMTimeGetSeconds(asset.duration)
+                                      ^
+scripts/verify.swift:12:25: warning: 'tracks(withMediaType:)' was deprecated in macOS 13.0: Use loadTracks(withMediaType:) instead
+let videoTracks = asset.tracks(withMediaType: .video)
+                        ^
+scripts/verify.swift:13:25: warning: 'tracks(withMediaType:)' was deprecated in macOS 13.0: Use loadTracks(withMediaType:) instead
+let audioTracks = asset.tracks(withMediaType: .audio)
+                        ^
+scripts/verify.swift:24:39: warning: 'timeRange' was deprecated in macOS 13.0: Use load(.timeRange) instead
+let videoEnd = CMTimeGetSeconds(video.timeRange.end)
+                                      ^
+scripts/verify.swift:25:39: warning: 'timeRange' was deprecated in macOS 13.0: Use load(.timeRange) instead
+let audioEnd = CMTimeGetSeconds(audio.timeRange.end)
+                                      ^
+scripts/verify.swift:26:41: warning: 'timeRange' was deprecated in macOS 13.0: Use load(.timeRange) instead
+let audioStart = CMTimeGetSeconds(audio.timeRange.start)
+                                        ^
+scripts/verify.swift:27:23: warning: 'naturalSize' was deprecated in macOS 13.0: Use load(.naturalSize) instead
+let width = Int(video.naturalSize.width)
+                      ^
+scripts/verify.swift:28:24: warning: 'naturalSize' was deprecated in macOS 13.0: Use load(.naturalSize) instead
+let height = Int(video.naturalSize.height)
+                       ^
+scripts/verify.swift:29:48: warning: 'nominalFrameRate' was deprecated in macOS 13.0: Use load(.nominalFrameRate) instead
+guard width == 1920, height == 1080, abs(video.nominalFrameRate - 24) < 0.01 else {
+                                               ^
+scripts/verify.swift:110:66: warning: 'nominalFrameRate' was deprecated in macOS 13.0: Use load(.nominalFrameRate) instead
+    "file": path, "width": width, "height": height, "fps": video.nominalFrameRate,
+                                                                 ^
+scripts/verify.swift:116:32: warning: 'formatDescriptions' was deprecated in macOS 13.0: Use load(.formatDescriptions) instead
+    "videoCodecs": codec(video.formatDescriptions), "audioCodecs": codec(audio.formatDescriptions),
+                               ^
+scripts/verify.swift:116:80: warning: 'formatDescriptions' was deprecated in macOS 13.0: Use load(.formatDescriptions) instead
+    "videoCodecs": codec(video.formatDescriptions), "audioCodecs": codec(audio.formatDescriptions),
+                                                                               ^

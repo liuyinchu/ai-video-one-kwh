@@ -1,0 +1,469 @@
+{
+  "clips" : [
+    {
+      "audioPath" : "build/audio/01-01-b97bb06196213fc6.aiff",
+      "end" : 5.001156462585034,
+      "scene" : 0,
+      "sentence" : 0,
+      "start" : 0.45,
+      "text" : "你按下开关，灯亮了，仿佛电一直就藏在墙里。"
+    },
+    {
+      "audioPath" : "build/audio/01-02-48836237e33f5493.aiff",
+      "end" : 8.899614512471656,
+      "scene" : 0,
+      "sentence" : 1,
+      "start" : 5.161156462585034,
+      "text" : "可电表每走过一度，背后究竟发生了什么？"
+    },
+    {
+      "audioPath" : "build/audio/01-03-a026888692b8f191.aiff",
+      "end" : 14.60922902494331,
+      "scene" : 0,
+      "sentence" : 2,
+      "start" : 9.059614512471656,
+      "text" : "这段旅程，跨越发电厂、铁塔、变电站和你家的配电箱。"
+    },
+    {
+      "audioPath" : "build/audio/01-04-3c71697b24eef5b3.aiff",
+      "end" : 19.018526077097505,
+      "scene" : 0,
+      "sentence" : 3,
+      "start" : 14.76922902494331,
+      "text" : "更有意思的是，送来的并不是一袋跑到家里的电子。"
+    },
+    {
+      "audioPath" : "build/audio/02-01-bb977617f02a1281.aiff",
+      "end" : 23.256984126984126,
+      "scene" : 1,
+      "sentence" : 0,
+      "start" : 19.518526077097505,
+      "text" : "一度电，就是一千瓦时，衡量的是能量。"
+    },
+    {
+      "audioPath" : "build/audio/02-02-bfb96c4ab7005efe.aiff",
+      "end" : 28.362879818594102,
+      "scene" : 1,
+      "sentence" : 1,
+      "start" : 23.416984126984126,
+      "text" : "功率保持一千瓦，持续工作一小时，就消耗一度电。"
+    },
+    {
+      "audioPath" : "build/audio/02-03-540fdccc365af501.aiff",
+      "end" : 33.700975056689344,
+      "scene" : 1,
+      "sentence" : 2,
+      "start" : 28.522879818594102,
+      "text" : "如果功率保持十瓦，理论上要用一百小时，才用完一度。"
+    },
+    {
+      "audioPath" : "build/audio/02-04-cf542f96a2ad008.aiff",
+      "end" : 38.574671201814056,
+      "scene" : 1,
+      "sentence" : 3,
+      "start" : 33.86097505668934,
+      "text" : "千瓦说的是用电快慢，千瓦时说的是总共用了多少。"
+    },
+    {
+      "audioPath" : "build/audio/03-01-c49e65a0b190e5f5.aiff",
+      "end" : 44.3456462585034,
+      "scene" : 2,
+      "sentence" : 0,
+      "start" : 39.074671201814056,
+      "text" : "旅程从能量转换开始：发电设备把别的能量变成电能。"
+    },
+    {
+      "audioPath" : "build/audio/03-02-c578f73a2cbce174.aiff",
+      "end" : 49.730181405895685,
+      "scene" : 2,
+      "sentence" : 1,
+      "start" : 44.5056462585034,
+      "text" : "火电和核电通常先把热能变成机械能，再驱动发电机。"
+    },
+    {
+      "audioPath" : "build/audio/03-03-6000864eb5837b4d.aiff",
+      "end" : 54.78963718820861,
+      "scene" : 2,
+      "sentence" : 2,
+      "start" : 49.89018140589568,
+      "text" : "水流和风带动转子；光伏则把阳光直接变成直流电。"
+    },
+    {
+      "audioPath" : "build/audio/03-04-f37ba520aeddbc90.aiff",
+      "end" : 60.290272108843524,
+      "scene" : 2,
+      "sentence" : 3,
+      "start" : 54.949637188208605,
+      "text" : "光伏还要经过逆变器，变成与交流电网相配合的交流电。"
+    },
+    {
+      "audioPath" : "build/audio/04-01-81fdc2f922681736.aiff",
+      "end" : 65.50396825396824,
+      "scene" : 3,
+      "sentence" : 0,
+      "start" : 60.790272108843524,
+      "text" : "电源接入的，不是一条从某座电厂直达你家的专线。"
+    },
+    {
+      "audioPath" : "build/audio/04-02-b0b30c4feaafed74.aiff",
+      "end" : 70.93494331065757,
+      "scene" : 3,
+      "sentence" : 1,
+      "start" : 65.66396825396824,
+      "text" : "电网更像相互连接的道路网，由许多电源共同为用户供电。"
+    },
+    {
+      "audioPath" : "build/audio/04-03-bdadad30ab3a2955.aiff",
+      "end" : 76.5284580498866,
+      "scene" : 3,
+      "sentence" : 2,
+      "start" : 71.09494331065757,
+      "text" : "电能按电路规律分配，不能给每一度电贴上专属路线标签。"
+    },
+    {
+      "audioPath" : "build/audio/04-04-523ffe5cfdef34f0.aiff",
+      "end" : 81.79689342403626,
+      "scene" : 3,
+      "sentence" : 3,
+      "start" : 76.68845804988659,
+      "text" : "调度统筹电源和线路，把电力可靠地送向需要它的地方。"
+    },
+    {
+      "audioPath" : "build/audio/05-01-f2111b9bf5aedcb4.aiff",
+      "end" : 87.8465079365079,
+      "scene" : 4,
+      "sentence" : 0,
+      "start" : 82.29689342403626,
+      "text" : "远距离送电，首先遇到的问题，是导线有电阻，会发热。"
+    },
+    {
+      "audioPath" : "build/audio/05-02-8fb49aff62152280.aiff",
+      "end" : 93.67222222222219,
+      "scene" : 4,
+      "sentence" : 1,
+      "start" : 88.0065079365079,
+      "text" : "输送同样的功率，其他条件相同时，电压越高，电流越小。"
+    },
+    {
+      "audioPath" : "build/audio/05-03-c9de6040b1b978c5.aiff",
+      "end" : 99.079977324263,
+      "scene" : 4,
+      "sentence" : 2,
+      "start" : 93.83222222222219,
+      "text" : "所以在发电端，往往先经过变压器，把交流电压升高。"
+    },
+    {
+      "audioPath" : "build/audio/05-04-4a8ae0fd76db242d.aiff",
+      "end" : 104.30197278911561,
+      "scene" : 4,
+      "sentence" : 3,
+      "start" : 99.239977324263,
+      "text" : "你看到的高大铁塔，就架起了承担远距离输送的高压线路。"
+    },
+    {
+      "audioPath" : "build/audio/06-01-7bc774e240ff46c8.aiff",
+      "end" : 108.70297052154191,
+      "scene" : 5,
+      "sentence" : 0,
+      "start" : 104.80197278911561,
+      "text" : "线路发热损耗，等于电流的平方乘以电阻。"
+    },
+    {
+      "audioPath" : "build/audio/06-02-22f4efaa15caa620.aiff",
+      "end" : 114.01784580498862,
+      "scene" : 5,
+      "sentence" : 1,
+      "start" : 108.86297052154191,
+      "text" : "输送功率、功率因数和线路电阻相同，电压若提高十倍。"
+    },
+    {
+      "audioPath" : "build/audio/06-03-28b5fd3fa1b231a6.aiff",
+      "end" : 119.49526077097502,
+      "scene" : 5,
+      "sentence" : 2,
+      "start" : 114.17784580498862,
+      "text" : "电流就降到原来的十分之一，发热损耗降到原来的百分之一。"
+    },
+    {
+      "audioPath" : "build/audio/06-04-bc47771fa89b0c09.aiff",
+      "end" : 125.83181405895688,
+      "scene" : 5,
+      "sentence" : 3,
+      "start" : 119.65526077097502,
+      "text" : "这是理想模型的比较，省下的是路上的损耗，并没有凭空创造能量。"
+    },
+    {
+      "audioPath" : "build/audio/07-01-b6e2d2356afb2918.aiff",
+      "end" : 131.81176870748297,
+      "scene" : 6,
+      "sentence" : 0,
+      "start" : 126.33181405895688,
+      "text" : "来到城市周边，电能进入变电站，电压会按需要逐级降低。"
+    },
+    {
+      "audioPath" : "build/audio/07-02-4695df7fb6e0803d.aiff",
+      "end" : 137.77680272108842,
+      "scene" : 6,
+      "sentence" : 1,
+      "start" : 131.97176870748297,
+      "text" : "例如，从高压输电网转入十千伏配电网，再送到小区附近。"
+    },
+    {
+      "audioPath" : "build/audio/07-03-f4cc7855ec8d711.aiff",
+      "end" : 143.6953968253968,
+      "scene" : 6,
+      "sentence" : 2,
+      "start" : 137.9368027210884,
+      "text" : "配电变压器继续降压，最终为普通居民家庭提供二百二十伏。"
+    },
+    {
+      "audioPath" : "build/audio/07-04-da655a26048b506d.aiff",
+      "end" : 149.56755102040816,
+      "scene" : 6,
+      "sentence" : 3,
+      "start" : 143.8553968253968,
+      "text" : "这是一条示意路线，各地的电压等级和接线方式并不完全相同。"
+    },
+    {
+      "audioPath" : "build/audio/08-01-bb2839a7ad41bc51.aiff",
+      "end" : 154.8044671201814,
+      "scene" : 7,
+      "sentence" : 0,
+      "start" : 150.06755102040816,
+      "text" : "常见的低压配电中，两根相线之间是三百八十伏。"
+    },
+    {
+      "audioPath" : "build/audio/08-02-f3b5fe0ce794741c.aiff",
+      "end" : 160.14256235827665,
+      "scene" : 7,
+      "sentence" : 1,
+      "start" : 154.9644671201814,
+      "text" : "普通家庭常用的，是相线与中性线之间的二百二十伏。"
+    },
+    {
+      "audioPath" : "build/audio/08-03-cb7840a05c1fed00.aiff",
+      "end" : 166.06115646258505,
+      "scene" : 7,
+      "sentence" : 2,
+      "start" : 160.30256235827665,
+      "text" : "电能经过电表计量，再经配电箱的保护装置，分到不同回路。"
+    },
+    {
+      "audioPath" : "build/audio/08-04-d34c1c6382bcd907.aiff",
+      "end" : 171.56179138321997,
+      "scene" : 7,
+      "sentence" : 3,
+      "start" : 166.22115646258504,
+      "text" : "接上电器、形成工作电路后，电器才能持续获得电能。"
+    },
+    {
+      "audioPath" : "build/audio/09-01-6ff839d172c3dfbf.aiff",
+      "end" : 176.171768707483,
+      "scene" : 8,
+      "sentence" : 0,
+      "start" : 172.06179138321997,
+      "text" : "二百二十伏，并不是一个始终不变的瞬时电压。"
+    },
+    {
+      "audioPath" : "build/audio/09-02-2ad838fd5fab7db3.aiff",
+      "end" : 181.67240362811793,
+      "scene" : 8,
+      "sentence" : 1,
+      "start" : 176.331768707483,
+      "text" : "我国常见的交流电网，电压每秒经历五十个完整的变化周期。"
+    },
+    {
+      "audioPath" : "build/audio/09-03-d568ea45a8a53dd5.aiff",
+      "end" : 187.61421768707484,
+      "scene" : 8,
+      "sentence" : 2,
+      "start" : 181.83240362811793,
+      "text" : "二百二十伏是有效值，描述在同一电阻上的等效平均热效应。"
+    },
+    {
+      "audioPath" : "build/audio/09-04-f187f08078db6017.aiff",
+      "end" : 192.58079365079365,
+      "scene" : 8,
+      "sentence" : 3,
+      "start" : 187.77421768707484,
+      "text" : "理想正弦波的瞬时峰值，实际上约为三百一十一伏。"
+    },
+    {
+      "audioPath" : "build/audio/10-01-a1f00dae907f5d9a.aiff",
+      "end" : 198.1660090702948,
+      "scene" : 9,
+      "sentence" : 0,
+      "start" : 193.08079365079365,
+      "text" : "难道有一群电子，从几百公里外一路冲进了你家的灯泡？"
+    },
+    {
+      "audioPath" : "build/audio/10-02-39ebb3037914b0c2.aiff",
+      "end" : 203.945283446712,
+      "scene" : 9,
+      "sentence" : 1,
+      "start" : 198.3260090702948,
+      "text" : "其实导线里本来就有自由电子，在交流电场下主要来回运动。"
+    },
+    {
+      "audioPath" : "build/audio/10-03-63fe2995658a57bc.aiff",
+      "end" : 209.67811791383218,
+      "scene" : 9,
+      "sentence" : 2,
+      "start" : 204.105283446712,
+      "text" : "能量通过与线路相伴的电磁场传递，电路中的变化迅速传播。"
+    },
+    {
+      "audioPath" : "build/audio/10-04-932b8ca71f0f8faf.aiff",
+      "end" : 215.29485260770974,
+      "scene" : 9,
+      "sentence" : 3,
+      "start" : 209.83811791383218,
+      "text" : "电子的往复运动，与电能传向电器，是两件需要区分的事。"
+    },
+    {
+      "audioPath" : "build/audio/11-01-b5c830b9a538d7ad.aiff",
+      "end" : 220.74074829931973,
+      "scene" : 10,
+      "sentence" : 0,
+      "start" : 215.79485260770974,
+      "text" : "电网还有一道难题：供电要持续适应用电需求的变化。"
+    },
+    {
+      "audioPath" : "build/audio/11-02-42d24b97e009f62c.aiff",
+      "end" : 226.52002267573695,
+      "scene" : 10,
+      "sentence" : 1,
+      "start" : 220.90074829931973,
+      "text" : "稳态时，供给需要覆盖用电和网损，并计入储能充放电。"
+    },
+    {
+      "audioPath" : "build/audio/11-03-bb6aa09d619ccee8.aiff",
+      "end" : 230.74356009070294,
+      "scene" : 10,
+      "sentence" : 2,
+      "start" : 226.68002267573695,
+      "text" : "短暂失衡会影响频率，需要系统及时响应。"
+    },
+    {
+      "audioPath" : "build/audio/11-04-2ba3fdbf47cf3cd7.aiff",
+      "end" : 236.52283446712016,
+      "scene" : 10,
+      "sentence" : 3,
+      "start" : 230.90356009070294,
+      "text" : "调度、发电机和储能共同调节，让电网在变化中维持稳定。"
+    },
+    {
+      "audioPath" : "build/audio/12-01-47ed0ed746979cf3.aiff",
+      "end" : 241.78297052154193,
+      "scene" : 11,
+      "sentence" : 0,
+      "start" : 237.02283446712016,
+      "text" : "所以，一度电不是一包电子，而是一份被计量的能量。"
+    },
+    {
+      "audioPath" : "build/audio/12-02-720d04e96020068.aiff",
+      "end" : 247.1675056689342,
+      "scene" : 11,
+      "sentence" : 1,
+      "start" : 241.94297052154192,
+      "text" : "它从能量转换出发，经过升压、输电、降压与配电。"
+    },
+    {
+      "audioPath" : "build/audio/12-03-37e6b940acc77f6.aiff",
+      "end" : 252.22696145124712,
+      "scene" : 11,
+      "sentence" : 2,
+      "start" : 247.3275056689342,
+      "text" : "电器再把电能变成光、热、声音，或机器的转动。"
+    },
+    {
+      "audioPath" : "build/audio/12-04-62fc0d67034ede64.aiff",
+      "end" : 257.7508163265306,
+      "scene" : 11,
+      "sentence" : 3,
+      "start" : 252.38696145124712,
+      "text" : "你按下的只是一个开关，背后却是整个电力系统在协同工作。"
+    }
+  ],
+  "duration" : 258.9583333333333,
+  "fps" : 24,
+  "height" : 1080,
+  "scenes" : [
+    {
+      "end" : 19.518526077097505,
+      "scene" : 0,
+      "start" : 0,
+      "title" : "灯亮之前，发生了什么？"
+    },
+    {
+      "end" : 39.074671201814056,
+      "scene" : 1,
+      "start" : 19.518526077097505,
+      "title" : "一度电，是多少？"
+    },
+    {
+      "end" : 60.790272108843524,
+      "scene" : 2,
+      "start" : 39.074671201814056,
+      "title" : "电从哪里来？"
+    },
+    {
+      "end" : 82.29689342403626,
+      "scene" : 3,
+      "start" : 60.790272108843524,
+      "title" : "它走的，是一张网"
+    },
+    {
+      "end" : 104.80197278911561,
+      "scene" : 4,
+      "start" : 82.29689342403626,
+      "title" : "为什么要先升高电压？"
+    },
+    {
+      "end" : 126.33181405895688,
+      "scene" : 5,
+      "start" : 104.80197278911561,
+      "title" : "少一点电流，少很多损耗"
+    },
+    {
+      "end" : 150.06755102040816,
+      "scene" : 6,
+      "start" : 126.33181405895688,
+      "title" : "来到城市，再逐级降压"
+    },
+    {
+      "end" : 172.06179138321997,
+      "scene" : 7,
+      "start" : 150.06755102040816,
+      "title" : "从小区，到你家的插座"
+    },
+    {
+      "end" : 193.08079365079365,
+      "scene" : 8,
+      "start" : 172.06179138321997,
+      "title" : "220 伏，也在不断变化"
+    },
+    {
+      "end" : 215.79485260770974,
+      "scene" : 9,
+      "start" : 193.08079365079365,
+      "title" : "电子，没有跑完这趟旅程"
+    },
+    {
+      "end" : 237.02283446712016,
+      "scene" : 10,
+      "start" : 215.79485260770974,
+      "title" : "最难的，是始终协调"
+    },
+    {
+      "end" : 258.9583333333333,
+      "scene" : 11,
+      "start" : 237.02283446712016,
+      "title" : "小小插座，连接整个系统"
+    }
+  ],
+  "title" : "一度电如何来到插座",
+  "voice" : "Tingting",
+  "voiceRate" : 180,
+  "width" : 1920
+}
